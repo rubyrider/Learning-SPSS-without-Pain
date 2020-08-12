@@ -14,7 +14,7 @@ Learning SPSS without Pain is a comprehensive manual for data analysis and inter
 # Download Links:
 [Data_3.sav](https://fb5a0c02-d1c1-4ed4-a851-8e8ca6638678.ws-eu01.gitpod.io/files/download/?id=73a21895-f4b7-4e27-b06a-c01d5bba3037)
 
-[Data_4.sav](https://fb5a0c02-d1c1-4ed4-a851-8e8ca6638678.ws-eu01.gitpod.io/files/download/?id=ea8f38cf-6ab3-4560-af20-ea4b35a4cd17)
+[Data_4.sav](https://fb5a0c02-d1c1-4ed4-a851-8e8ca6638678.ws-eu01.gitpod.io/files/download/?id=ac5b0e29-2089-4454-81e3-ab5f2c47859a)
 
 [Data_Cronb.sav](https://fb5a0c02-d1c1-4ed4-a851-8e8ca6638678.ws-eu01.gitpod.io/files/download/?id=2a8e5b2f-7668-49dc-92b6-5c1611eaff09)
 
