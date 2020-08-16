@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rubyrider/Learning-SPSS-without-Pain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Learning SPSS without Pain
+###### ISBN 978-984-34-8254-9
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
+######Learning SPSS without Pain is a comprehensive manual for data analysis and interpretation of outputs. It is intended for the post-graduate students of public health and medicine including the young researchers in health and social sciences. It is written in a very simple language and used health related data as examples. The manual covers descriptive statistics, and hypothesis testing using bivariate and multivariable analysis.
 
-### Markdown
+![Learning SPSS without Pain](./SPSSCoverPage.jpg?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### [Download Here](./SPSS_Cover_Page.pdf?raw=true)
 
-```markdown
-Syntax highlighted code block
+## About Author
+### Mohammad Tajul Islam
 
-# Header 1
-## Header 2
-### Header 3
+##### Professor (Adjunct), Department of Public Health
 
-- Bulleted
-- List
+North South University
+&
+State University of Bangladesh
 
-1. Numbered
-2. List
+# Data Download Links:
+[Data_3.sav](./Data_3.sav?raw=true)
 
-**Bold** and _Italic_ and `Code` text
+[Data_4.sav](./Data_4.sav?raw=true)
 
-[Link](url) and ![Image](src)
-```
+[Data_Cronb.sav](./Data_cronb.sav?raw=true)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Data_HIV_1.sav](./Data_HIV_1.sav?raw=true)
 
-### Jekyll Themes
+[Data_HIV.sav](./Data_HIV.sav?raw=true)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rubyrider/Learning-SPSS-without-Pain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Data_Repeat_Anova_2.sav](./Data_repeat_anova_2.sav?raw=true)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Data_Survival_4.sav](./Data_survival_4.sav?raw=true)
+# Key words:
+SPSS, data analysis, hypothesis testing, t-test, ANOVA, Correlation, Regression, Chi-square, ANCOVA
