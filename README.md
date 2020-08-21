@@ -7,7 +7,7 @@
 
 ![](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSSCoverPage.jpg?raw=true)
 
-##### [Download: SPSS Without Pain E-book(Final)](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/Taj_SPSS_without_Pain_E-book_Final.pdf?raw=true)
+##### [Download: SPSS Without Pain E-book(Final)](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSS_without_Pain_Ebook_3_rev.pdf?raw=true)
 
 ## About Author
 ### Mohammad Tajul Islam
