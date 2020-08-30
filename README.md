@@ -7,7 +7,7 @@
 
 ![](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSSCoverPage.jpg?raw=true)
 
-##### [Download: SPSS Without Pain E-book](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSS_without_Pain_Ebook_3_rev.pdf?raw=true)
+##### [Download: SPSS Without Pain E-book](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSS_without_Pain_Ebook_5.pdf?raw=true)
 
 ## About Author
 ### Mohammad Tajul Islam
@@ -19,7 +19,7 @@ North South University
 State University of Bangladesh
 
 # Book & Data Download Links:
-[SPSS Without Pain E-book](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSS_without_Pain_Ebook_3_rev.pdf?raw=true)
+[SPSS Without Pain E-book](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/SPSS_without_Pain_Ebook_5.pdf?raw=true)
 
 [Data_3.sav](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/Data_3.sav?raw=true)
 
@@ -34,5 +34,6 @@ State University of Bangladesh
 [Data_Repeat_Anova_2.sav](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/Data_repeat_anova_2.sav?raw=true)
 
 [Data_Survival_4.sav](https://github.com/rubyrider/Learning-SPSS-without-Pain/blob/master/Data_survival_4.sav?raw=true)
+
 # Key words:
 SPSS, data analysis, hypothesis testing, t-test, ANOVA, Correlation, Regression, Chi-square, ANCOVA
